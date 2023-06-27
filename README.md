@@ -8,7 +8,7 @@
 - Decrement button with onClick event decreases the counter value
 - Reset button with Onclick event reset the counter value to 0
 ## mini counter app
-- A simple counter project to make increment and decrements by 1. HMTL, CSS and JavaScript. This project make understanding of basics of increment, decrements, functions and DOM
+- A simple counter project to make increment and decrements by 1. HMTL, CSS and JavaScript. This project make understanding of basics of increment, decrements, functions and DOM 
 ## counter App Images
 ## Home
 - <img width="906" alt="image" src="https://github.com/Prathyusha-93910/mini-counter-app/assets/134360404/81e632b3-6d69-4c32-96b5-ef8e38e995e1">
